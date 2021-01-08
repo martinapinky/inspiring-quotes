@@ -1,5 +1,6 @@
 # inspiring-quotes
 A Quote Generator with Asynchronous fetch request to a REST API
+
 Fix Dreaded CORS Issues with Proxy API
 
 ## Live Demo
